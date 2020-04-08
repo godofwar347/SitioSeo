@@ -1,0 +1,77 @@
+* {font-family: 'Roboto Condensed', sans-serif;}
+    .contenedor {
+      width: 80%;
+      max-width: 1200px;
+      margin:0 auto;
+      overflow: hidden;
+      margin-top: 30px;
+      text-align: center;
+      border: 1px solid black;
+      padding: 20px;
+
+    }
+
+    .bg-rojo {
+      background-color: #8B1F2B;
+    }
+
+    .active {
+ 	border-bottom: 2px solid black;
+ }
+     nav li a:hover {
+ 	background-color: #303030;
+ 	height: 40px;
+ }
+
+    .footer {
+    	padding: 20px;
+    }
+
+    .contenedor-header {
+      background-color: #8B1F2B;
+      text-align: center;
+    }
+
+    .container-fluid h3 {
+      padding: 10px 0 0 10px;
+    }
+
+    .container-fluid p {
+      padding: 10px 0 0 10px;
+    }
+
+    .boton {
+      background-color: #8B1F2B;
+      color: white;
+    }
+
+    .col-lg-4 {
+      padding-bottom: 30px;
+    }
+
+    .contenedor-disfruta {
+      background-color: #8B1F2B;
+      text-align: center;
+    }
+
+    .col-lg-6 {
+      padding-bottom: 30px;
+    }
+
+    .col-lg-3{
+      padding-bottom: 30px;
+    }
+
+    .mapa {
+      padding-bottom: 20px;
+    }
+
+    .container-subsección {
+      text-align: center;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+
+    .container-actividades-eventos h1{
+      
+    }
